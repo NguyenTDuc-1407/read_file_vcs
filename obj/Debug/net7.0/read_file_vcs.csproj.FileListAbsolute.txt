@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\bin\Debug\net7.0\read_file_vcs.exe
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\bin\Debug\net7.0\read_file_vcs.deps.json
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\bin\Debug\net7.0\read_file_vcs.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\bin\Debug\net7.0\read_file_vcs.dll
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\bin\Debug\net7.0\read_file_vcs.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.dll
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\refint\read_file_vcs.dll
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\read_file_vcs.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\read_file_vcs\obj\Debug\net7.0\ref\read_file_vcs.dll
